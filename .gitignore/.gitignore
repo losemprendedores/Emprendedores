@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>Los Emprendedores</title>
+	<link rel="stylesheet" href="estilos.css">
+	<link rel="stylesheet" href="font-awesome.css">
+
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="main.js"></script>
+</head>
+<body>
+    <img src="port.jpg" width="100%" height="250">
+	<div class="wrap">
+		<ul class="tabs">
+			<li><a href="#tab1"><span class="fa fa-home"></span><span class="tab-text">Bienvenida</span></a></li>
+			<li><a href="#tab2"><span class="fa fa-group"></span><span class="tab-text">Keynesianismo</span></a></li>
+			<li><a href="#tab3"><span class="fa fa-briefcase"></span><span class="tab-text">Escasez de Producción en Alimentos y Recursos</span></a></li>
+			<li><a href="#tab4"><span class="fa fa-group"></span><span class="tab-text">Cultura</span></a></li>
+			<li><a href="#tab5"><span class="fa fa-bookmark"></span><span class="tab-text">Gastronomia</span></a></li>
+		</ul>
+
+		<div class="secciones">
+			<article id="tab1">
+				<h1>Queridos Lectores</h1>
+				<br><p>En este blog llamado “Los Emprendedores” les damos una cordial bienvenida a
+					este espacio en el cual les ofrecemos un contenido que les servirán de apoyo,
+					aprendizaje y al mismo tiempo con diversión.
+					El objetivo de nuestro contenido es para que ustedes puedan informarse sobre los
+					temas de Keynesianismo y de temas de economía, también contamos con
+					actividades como juegos, temas de moda y diferentes secciones donde puedas
+					divertirte. Esperamos que sea de su agrado, los invitamos a que visiten nuestro
+					blog y muchas gracias por su preferencia.</p></br>
+			</article>
+			<article id="tab2">
+				<h1>Autor:Fragoso Ramírez Claudia Veronica</h1>
+				<br><p>Hace una semana fui con mi mamá al hospital debido a que tuve algunos
+					problemas de salud y necesitaba ir con urgencia a ver al doctor, cuando llegamos
+					con él nos dijeron que no había camas ni equipo especializado para poder
+					atenderme por que se encontraba lleno, entonces tuve que ir a otro hospital en
+					donde cobraban mas caro y mi mamá no tenía los recursos económicos para
+					poder pagarlo ya que estaba desempleada por la llegada de la pandemia así como
+					yo.</p>
+					<p>Desde el año pasado que empezó la pandemia hasta ahorita, muchas personas se
+					encuentran sin recursos económicos para poder pagar una atención médica,
+					algunas otras se encuentran en pobreza por que el país esta atravesando una
+					crisis. Afortunadamente en el IMSS (Instituto Mexicano del Seguro Social) me
+					pudieron atender, y pudimos ver que para poder atravesar esa crisis se necesitan
+					implementar más medios de ayuda y de oportunidades de trabajo para las
+					personas que se encuentran desempleadas </p></br>
+					
+					<div align="center"><img src="key2.jpg" width="500" height="300"></div>
+					
+					<br><p>La situación actual que tiene México a causa de la pandemia, y de otros factores
+					que se habían heredado del pasado, han provocada una inestabilidad en la
+					economía, la disminución notoriamente el nivel de vida de muchos mexicanos, el
+					desempleo, el alza de los precios de muchos productos básicos, la pobreza de
+					muchos grupos marginados de la sociedad, el aumento de nuestra deuda externa
+					y la dependencia económica con Estados Unidos estabilidad económica.</p>
+					<p>Con lo anterior pude investigar varias teorías económicas con el fin de proponer
+					algunas ideas para buscar alguna solución a los problemas económicos de México
+					y me llamo la atención “el Keynesianismo”.</p>
+					<p>Su nombre se debe al economista Keynes quien fue el encargado en poder
+					entender los ciclos económicos que tenían los países para poderlos ayudarlos
+					cuando estos se encontrarán en una crisis económica.</p>
+					<p>"El Keynesianismo” surgió por el economista John Maynard Keynes, quien nació en
+					Cambridge, Reino Unido un 05 de junio de 1883 y el año de su deceso fue el 21
+					de abril de 1946 en Sussex Oriental, Reino Unido, a principios del siglo XX, su
+					propósito principal era ayudar a los países que se encontraban cerca o en una
+					crisis económica”.</p>
+					<p>https://blog.selfbank.es/la-economia-keynesiana-como-alternativa-para-el-crecimiento/</p>
+					<p>Debido a que muchos países se encontraban con muchas deudas, algunas de
+					estas se tenían porque los países pedían dinero para poder pagarle a las
+					empresas para que pudieran seguir trabajando y también para poder nivelar la
+					economía que tenían, lamentablemente no se podían pagar y las consecuencias
+					que se tenían era la falta de equilibrio económico, el desempleo y por esas causas
+					estaban en pobreza muchas personas.</p></br>
+					
+					<div align="center"><img src="key3.jpg" width="500" height="500"></div>
+					
+					<br><p>Keynes se basó en poder estudiar al estado y saber cuál era su situación para
+					poder ayudar a poder nivelar esto se debían otorgar mejores oportunidades para
+					que la sociedad y el estado pudieran avanzar de una manera buena e ir quitando
+					la pobreza que había en aquellos momentos</p>
+					<p align="center">https://www.bbva.com/es/keynes-para-dummies-de-que-se-habla-cuando-sehabla-del-modelo-keynesiano/ </p></br>
+					
+					<div align="center"><img src="key4.jpg" width="500" height="300"></div>
+					
+					<br><p>En esta imagen se puede mostrar cómo nos estamos enfrentando a una crisis
+					económica a causa de la pandemia, hay incrementos en el desempleo que se
+					tiene, la elevación de los costos de los productos que se tienen para vender.</p></br>
+					
+					<br><p>Esta teoría fue de gran ayuda cuando tuvieron problemas económicos como fue el
+					caso de Estados Unidos que tardo en 4 años de salir de la crisis que tenían ya que
+					su PIB tenía una caída por las deudas que tenían de no poder pagar las
+					exportaciones que hacían otros países, sin embargo está ayudo a no solo
+					establecer la economía, si no a “aumentar el gasto público para así poderse
+					estimular la demanda que se tenía y aumentarse la producción, inversión y
+					empleo.</p>
+					<p>https://democraciarealya.es/modelo-keynesiano-teoria-de-keynes/</p></br>
+					
+          <video src = "https://youtu.be/oLMKy7RIoZE" width =  "640" height = "480"> </video>
+					
+					<br><p>El Keynesianismo fue sin dudas una teoría que marco y sigue estando vigente en
+					varios países, como actualmente se está viviendo en México, los factores como la
+					oportunidad de nuevos empleos y para los que se encuentran en la pobreza,
+					fortalecen y ayudan a que la economía pueda estar a un nivel adecuado.</p></br>
+					
+					<h1><p>Fuentes bibliografías:</li></h1>
+					<li>https://www.obsbusinees.school</li>
+					<li>https://www.imf.org</li>
+					<li>https://theconversation.com/keynes-contra-el-coronavirus-134303</li>
+					<li>https://policonomics.com/es/keynesianismo/</li>
+					<li>https://www.euston96.com/keynesianismo/</li></p>
+			</article>
+			<article id="tab3">
+				<h1>Autor:Ramírez Pérez Karla</h1>
+				<br><p>“La escasez es la falta de recursos necesarios para satisfacer una o más
+					necesidades, las cuales pueden o no ser clave para la supervivencia.” </p>
+					<p>https://economipedia.com/definiciones/escasez.html</p>
+					<p>La escasez en la producción se debe a que en muchas ocasiones las empresas
+					no cuentan con los recursos necesarios para poder seguir elaborando más
+					producto para la satisfacción de las necesidades diarias de las personas, como
+					son los alimentos, los productos de higiene personal, vestimenta, calzado, entre
+					otros productos.</p></br>
+					
+					<div align="center"><img src="esc2.jpg" width="500" height="300"></div>
+					
+					<h1><br><p>Causas</p></h1>
+					<p>Dentro de la escasez de producción existen diversas causas que la generan,
+					algunas de ellas son:</p></br>
+                    <br>
+					<li>Aumento de la demanda: Los requerimientos de compra se incrementan
+					por encima de lo previsto, esto se debe a las preferencias del público.</li>
+					<li>Reducción de la oferta o corte en la producción: Se debe a que la empresa
+					haya tenido que cortar su proceso de producción por circunstancias
+					extraordinarias, como puede ser el accidente o problema en alguna
+					empresa.</li>
+					<li>Acumulación: Se debe a que la población con mayores recursos
+					económicos consuma mayor cantidad de productos, dejando al resto de la
+					población que cuenta con menos recursos sin productos.</li></br>
+					
+					<h1><br><p>Tipos</p></h1>
+                    <p>Existen diferentes tipos de escasez, entre ellos se encuentran:</p></br>
+                    <br>
+					<li>Escasez absoluta: Esta no tiene reemplazo dentro del mercado, ya que, se refiere
+					a los recursos naturales, como el alimento, materia prima, agua, entre otros.</li>
+					<li>Escasez relativa: Este si tiene reemplazo dentro del mercado, se refiere a los
+					recursos materiales.</li>
+					<li>Escasez artificial: Es generada por el dueño o encargado del mercado, sacando el
+					producto del mercado, para poder elevar el precio al momento de volverlo a
+					vender.</li></br>
+					
+					<div align="center"><img src="esc3.jpg" width="500" height="300"></div>
+					
+					<h1><br><p>Escasez en México actual.</p></h1>
+					<p>La escasez en México ha sido muy notoria en el año 2020, debido a la pandemia
+					causada por Covid-19, muchas empresas han tenido que cerrar, ya que, sus
+					recursos para seguir generando producto se han ido agotando, con ello los
+					empleados han perdido su empleo, sus recursos para poder adquirir productos
+					para satisfacer sus necesidades son muy bajos, esto no solo fue en el año 2020, si
+					no que ya viene desde años pasados y continua actualmente en el año 2021, ya
+					que la pandemia sigue y con ello la falta de empleo aún continua, así como
+					también la falta de recursos para que las empresas puedan abrir de nuevo y seguir
+					generando producto para la satisfacción de las personas.</p>
+					<p>En cuanto a la producción de materia prima para elaborar alimentos, también se
+					encuentran escasos en algunas regiones del país, ya que, se elaboran en el
+					campo y al momento de que en algunas estaciones del año no llueve, la 
+					producción de esta se detiene y eso afecta al producto, así mismo pasa con la
+					fruta, verdura, cereales, oleaginosas, leguminosas, hortalizas, entre otras, también
+					con el forraje, ya que gracias a ello los animales se alimentan y así nos brindan
+					productos para su consumo.</p>
+					<p>https://www.redalyc.org/jatsRepo/112/11252977008/html/index.html</p></br>
+					
+					<div align="center"><img src="esc4.jpg" width="500" height="300"></div>
+					
+					<br><p>A continuación, se muestran unas gráficas acerca del rendimiento de la materia
+					prima que se elabora en el campo, a partir del año 1980, hasta el año 2020, estas
+					están calculadas cada 10 años.</p></br>
+					
+					<div align="center"><img src="esc5.jpg" width="500" height="300"></div>
+					
+					<br><p>Se observa que en éstas dos tablas hubo un crecimiento a lo largo de estos años,
+					en la primera tuvo un crecimiento mayor, en la segunda tuvo un crecimiento
+					menor.</p></br>
+					
+					<div align="center"><img src="esc6.jpg" width="500" height="300"></div>
+					
+					<br><p>En estas dos tablas se observa que en la primera se mantuvo a lo largo de los
+					años, sin embargo, la segunda sí tuvo un crecimiento.</p></br>
+					
+					<div align="center"><img src="esc7.jpg" width="500" height="300"></div>
+					
+					<br><p>En las dos tablas se observa que hubo crecimiento, en la primera hubo menor
+					crecimiento y en la segunda tuvo mayor crecimiento.</p>
+					<p>- https://www.redalyc.org/jatsRepo/112/11252977008/html/index.html</p></br>
+					<h1><br><p>Materiales y métodos</p></h1>
+					<p>Se estima primero la disponibilidad per cápita, dividiendo el área sembrada entre
+					el número de habitantes. Entre el año 1980 hasta el año 2015, los cálculos fueron
+					hechos por lustro, a partir de esa fecha, hasta el año 2050 se hicieron cada diez
+					años. En México se producen alrededor de 264 especies, entre las cuales se 
+					encuentran clasificadas en 8 grupos, incluyendo cereales, leguminosas, hortalizas,
+					frutales, forrajes y oleaginosas.</p>
+					<p>Se consideró que la producción es la función más importante del rendimiento del
+					producto, dicho dato se calculó haciendo una división de la demanda de alimentos
+					de cada grupo entre el área sembrada.</p>
+					<p>De los años 1980 a 2015 la producción agrícola en México incrementó 94 por
+					ciento, ya que, en este periodo, la producción de alimentos vegetales creció a una
+					tasa mayor que la población, la disponibilidad de alimentos vegetales per cápita
+					incrementó en 12 por ciento.</p></br>
+					<h1><br><p>Aumento de la producción</p></h1>
+					<p>En México el aumento de la producción agrícola ha resultado de mejorar el
+					rendimiento por unidad de superficie, aumentar la superficie cultivada y la
+					combinación de ambas estrategias dicho incremento de la producción agrícola
+					mejora el rendimiento por unidad de superficie, el caso mejor documentado es el
+					del trigo.</p>
+					<p>A diferencia de lo que ha ocurrido en cereales, el aumento de la producción en
+					leguminosas ha estado asociada exclusivamente con incrementar su área
+					cultivada, por lo tanto, este hecho es preocupante ya que aquí se ubica el frijol el
+					cual desde tiempos ancestrales es pilar de la alimentación mexicana y hoy con
+					1.77 millones a representa 92 por ciento del área cultivada de este grupo; 7.6 por
+					ciento de la superficie restante se destina para producir arvejón, haba, garbanzo y
+					lenteja.</p></br>
+					
+          <video src = "https://youtu.be/IUGotDZIb40" width = "640" height = "640"> </video>          
+         
+					<h1><br><p>Referencias bibliográficas</p></h1>
+					<li>https://economipedia.com/definiciones/escasez.html</li>
+					<li>https://concepto.de/escasez/</li>
+					<li>https://www.redalyc.org/jatsRepo/112/11252977008/html/index.html</li>
+					<li>https://www.milenio.com/politica/comunidad/si-continua-el-desabasto-habraescasez-de-alimentos</li>
+					<li>https://www.jornada.com.mx/notas/2021/02/16/economia/calculan-que-este2021-aun-habra-escasez-en-algunos-productos-de-limpieza/</li></br>
+			</article>
+			<article id="tab4">
+				<h1>Autor</h1>
+				<p>Información en espera</p>
+			</article>
+			<article id="tab5">
+				<h1>Autor</h1>
+				<p>Información en espera</p>
+			</article>
+		</div>
+	</div>
+</body>
+</html>
